@@ -1,0 +1,1001 @@
+client_id,preferred_area,feedback
+1,Area_14,Will use again
+2,Area_2,Not satisfied
+3,Area_1,Average experience
+4,Area_16,Average experience
+5,Area_17,Good service
+6,Area_4,Will use again
+7,Area_8,Excellent ride
+8,Area_2,Will use again
+9,Area_6,Average experience
+10,Area_15,Excellent ride
+11,Area_11,Not satisfied
+12,Area_17,Good service
+13,Area_16,Excellent ride
+14,Area_18,Good service
+15,Area_18,Good service
+16,Area_19,Average experience
+17,Area_9,Excellent ride
+18,Area_9,Not satisfied
+19,Area_2,Will use again
+20,Area_12,Not satisfied
+21,Area_14,Average experience
+22,Area_4,Not satisfied
+23,Area_8,Excellent ride
+24,Area_16,Not satisfied
+25,Area_19,Will use again
+26,Area_1,Not satisfied
+27,Area_11,Excellent ride
+28,Area_15,Excellent ride
+29,Area_12,Good service
+30,Area_14,Excellent ride
+31,Area_15,Will use again
+32,Area_9,Excellent ride
+33,Area_7,Excellent ride
+34,Area_10,Average experience
+35,Area_9,Will use again
+36,Area_20,Good service
+37,Area_15,Not satisfied
+38,Area_8,Not satisfied
+39,Area_20,Excellent ride
+40,Area_4,Will use again
+41,Area_8,Excellent ride
+42,Area_5,Will use again
+43,Area_6,Average experience
+44,Area_10,Average experience
+45,Area_13,Not satisfied
+46,Area_15,Good service
+47,Area_6,Not satisfied
+48,Area_14,Average experience
+49,Area_3,Not satisfied
+50,Area_20,Good service
+51,Area_14,Excellent ride
+52,Area_7,Excellent ride
+53,Area_14,Will use again
+54,Area_20,Excellent ride
+55,Area_19,Good service
+56,Area_17,Good service
+57,Area_10,Will use again
+58,Area_20,Not satisfied
+59,Area_1,Will use again
+60,Area_5,Excellent ride
+61,Area_18,Average experience
+62,Area_18,Excellent ride
+63,Area_8,Average experience
+64,Area_20,Good service
+65,Area_2,Average experience
+66,Area_14,Excellent ride
+67,Area_14,Not satisfied
+68,Area_18,Good service
+69,Area_10,Will use again
+70,Area_15,Average experience
+71,Area_6,Will use again
+72,Area_14,Will use again
+73,Area_3,Average experience
+74,Area_20,Will use again
+75,Area_13,Good service
+76,Area_19,Good service
+77,Area_5,Not satisfied
+78,Area_13,Not satisfied
+79,Area_10,Will use again
+80,Area_8,Excellent ride
+81,Area_7,Not satisfied
+82,Area_10,Average experience
+83,Area_15,Excellent ride
+84,Area_11,Will use again
+85,Area_15,Average experience
+86,Area_10,Good service
+87,Area_12,Excellent ride
+88,Area_12,Will use again
+89,Area_9,Excellent ride
+90,Area_6,Will use again
+91,Area_4,Not satisfied
+92,Area_11,Will use again
+93,Area_13,Average experience
+94,Area_13,Will use again
+95,Area_19,Will use again
+96,Area_2,Average experience
+97,Area_8,Good service
+98,Area_4,Will use again
+99,Area_19,Will use again
+100,Area_18,Not satisfied
+101,Area_17,Excellent ride
+102,Area_14,Average experience
+103,Area_16,Excellent ride
+104,Area_13,Good service
+105,Area_16,Average experience
+106,Area_3,Excellent ride
+107,Area_6,Good service
+108,Area_8,Excellent ride
+109,Area_20,Will use again
+110,Area_15,Will use again
+111,Area_19,Excellent ride
+112,Area_12,Average experience
+113,Area_19,Good service
+114,Area_17,Not satisfied
+115,Area_17,Will use again
+116,Area_15,Not satisfied
+117,Area_20,Average experience
+118,Area_13,Not satisfied
+119,Area_7,Average experience
+120,Area_3,Average experience
+121,Area_11,Will use again
+122,Area_20,Will use again
+123,Area_6,Excellent ride
+124,Area_17,Will use again
+125,Area_5,Will use again
+126,Area_19,Not satisfied
+127,Area_19,Not satisfied
+128,Area_10,Will use again
+129,Area_16,Average experience
+130,Area_14,Will use again
+131,Area_8,Excellent ride
+132,Area_4,Will use again
+133,Area_6,Average experience
+134,Area_5,Average experience
+135,Area_16,Average experience
+136,Area_16,Not satisfied
+137,Area_18,Will use again
+138,Area_16,Will use again
+139,Area_3,Good service
+140,Area_6,Good service
+141,Area_16,Not satisfied
+142,Area_9,Not satisfied
+143,Area_11,Excellent ride
+144,Area_5,Excellent ride
+145,Area_15,Not satisfied
+146,Area_12,Average experience
+147,Area_5,Good service
+148,Area_20,Not satisfied
+149,Area_2,Excellent ride
+150,Area_10,Will use again
+151,Area_15,Average experience
+152,Area_4,Not satisfied
+153,Area_7,Good service
+154,Area_1,Not satisfied
+155,Area_15,Good service
+156,Area_4,Average experience
+157,Area_11,Excellent ride
+158,Area_13,Will use again
+159,Area_5,Average experience
+160,Area_18,Will use again
+161,Area_12,Not satisfied
+162,Area_8,Excellent ride
+163,Area_16,Excellent ride
+164,Area_5,Not satisfied
+165,Area_1,Average experience
+166,Area_3,Excellent ride
+167,Area_9,Will use again
+168,Area_13,Excellent ride
+169,Area_6,Not satisfied
+170,Area_2,Excellent ride
+171,Area_4,Average experience
+172,Area_12,Good service
+173,Area_9,Good service
+174,Area_13,Will use again
+175,Area_15,Not satisfied
+176,Area_15,Excellent ride
+177,Area_1,Good service
+178,Area_9,Good service
+179,Area_19,Average experience
+180,Area_8,Excellent ride
+181,Area_18,Will use again
+182,Area_1,Not satisfied
+183,Area_5,Not satisfied
+184,Area_13,Will use again
+185,Area_13,Average experience
+186,Area_11,Good service
+187,Area_19,Average experience
+188,Area_14,Average experience
+189,Area_16,Good service
+190,Area_6,Excellent ride
+191,Area_12,Will use again
+192,Area_19,Good service
+193,Area_18,Average experience
+194,Area_7,Good service
+195,Area_16,Not satisfied
+196,Area_15,Average experience
+197,Area_12,Not satisfied
+198,Area_16,Excellent ride
+199,Area_20,Not satisfied
+200,Area_6,Average experience
+201,Area_4,Will use again
+202,Area_18,Will use again
+203,Area_4,Not satisfied
+204,Area_12,Excellent ride
+205,Area_8,Good service
+206,Area_12,Will use again
+207,Area_16,Average experience
+208,Area_3,Will use again
+209,Area_8,Not satisfied
+210,Area_17,Excellent ride
+211,Area_11,Good service
+212,Area_19,Good service
+213,Area_20,Good service
+214,Area_15,Average experience
+215,Area_19,Good service
+216,Area_1,Not satisfied
+217,Area_6,Excellent ride
+218,Area_17,Average experience
+219,Area_20,Average experience
+220,Area_15,Not satisfied
+221,Area_11,Average experience
+222,Area_13,Not satisfied
+223,Area_8,Good service
+224,Area_10,Good service
+225,Area_9,Good service
+226,Area_1,Not satisfied
+227,Area_4,Average experience
+228,Area_6,Average experience
+229,Area_19,Average experience
+230,Area_5,Good service
+231,Area_6,Excellent ride
+232,Area_8,Excellent ride
+233,Area_15,Good service
+234,Area_15,Will use again
+235,Area_16,Good service
+236,Area_9,Good service
+237,Area_9,Excellent ride
+238,Area_16,Average experience
+239,Area_19,Will use again
+240,Area_19,Average experience
+241,Area_14,Will use again
+242,Area_3,Average experience
+243,Area_3,Excellent ride
+244,Area_4,Will use again
+245,Area_14,Good service
+246,Area_17,Will use again
+247,Area_8,Not satisfied
+248,Area_5,Average experience
+249,Area_6,Average experience
+250,Area_3,Excellent ride
+251,Area_19,Good service
+252,Area_11,Good service
+253,Area_2,Will use again
+254,Area_13,Good service
+255,Area_12,Not satisfied
+256,Area_9,Will use again
+257,Area_4,Average experience
+258,Area_17,Good service
+259,Area_9,Not satisfied
+260,Area_2,Excellent ride
+261,Area_6,Will use again
+262,Area_10,Good service
+263,Area_2,Not satisfied
+264,Area_1,Not satisfied
+265,Area_10,Average experience
+266,Area_4,Not satisfied
+267,Area_8,Good service
+268,Area_12,Will use again
+269,Area_14,Excellent ride
+270,Area_13,Excellent ride
+271,Area_19,Not satisfied
+272,Area_4,Good service
+273,Area_19,Excellent ride
+274,Area_9,Average experience
+275,Area_5,Average experience
+276,Area_19,Will use again
+277,Area_13,Excellent ride
+278,Area_8,Not satisfied
+279,Area_13,Good service
+280,Area_12,Not satisfied
+281,Area_18,Will use again
+282,Area_2,Good service
+283,Area_17,Not satisfied
+284,Area_7,Will use again
+285,Area_6,Will use again
+286,Area_3,Not satisfied
+287,Area_15,Good service
+288,Area_6,Good service
+289,Area_4,Average experience
+290,Area_19,Good service
+291,Area_11,Average experience
+292,Area_14,Not satisfied
+293,Area_14,Average experience
+294,Area_17,Good service
+295,Area_5,Will use again
+296,Area_3,Excellent ride
+297,Area_13,Not satisfied
+298,Area_7,Will use again
+299,Area_13,Will use again
+300,Area_11,Excellent ride
+301,Area_2,Excellent ride
+302,Area_7,Not satisfied
+303,Area_17,Will use again
+304,Area_13,Not satisfied
+305,Area_13,Good service
+306,Area_6,Average experience
+307,Area_1,Average experience
+308,Area_2,Average experience
+309,Area_15,Will use again
+310,Area_14,Not satisfied
+311,Area_10,Will use again
+312,Area_20,Will use again
+313,Area_7,Not satisfied
+314,Area_6,Excellent ride
+315,Area_11,Will use again
+316,Area_6,Excellent ride
+317,Area_5,Good service
+318,Area_15,Will use again
+319,Area_2,Not satisfied
+320,Area_11,Excellent ride
+321,Area_1,Excellent ride
+322,Area_8,Excellent ride
+323,Area_7,Will use again
+324,Area_17,Will use again
+325,Area_14,Not satisfied
+326,Area_6,Excellent ride
+327,Area_11,Not satisfied
+328,Area_14,Average experience
+329,Area_12,Will use again
+330,Area_13,Not satisfied
+331,Area_17,Not satisfied
+332,Area_4,Average experience
+333,Area_3,Average experience
+334,Area_4,Not satisfied
+335,Area_20,Will use again
+336,Area_19,Good service
+337,Area_4,Will use again
+338,Area_7,Excellent ride
+339,Area_17,Excellent ride
+340,Area_16,Will use again
+341,Area_11,Will use again
+342,Area_7,Excellent ride
+343,Area_10,Good service
+344,Area_10,Not satisfied
+345,Area_10,Will use again
+346,Area_8,Will use again
+347,Area_6,Not satisfied
+348,Area_19,Good service
+349,Area_18,Not satisfied
+350,Area_17,Good service
+351,Area_12,Will use again
+352,Area_20,Good service
+353,Area_11,Excellent ride
+354,Area_4,Will use again
+355,Area_8,Good service
+356,Area_19,Will use again
+357,Area_1,Good service
+358,Area_6,Excellent ride
+359,Area_2,Average experience
+360,Area_2,Will use again
+361,Area_16,Average experience
+362,Area_10,Average experience
+363,Area_12,Excellent ride
+364,Area_7,Not satisfied
+365,Area_8,Will use again
+366,Area_3,Average experience
+367,Area_17,Will use again
+368,Area_20,Not satisfied
+369,Area_19,Will use again
+370,Area_15,Not satisfied
+371,Area_16,Average experience
+372,Area_4,Will use again
+373,Area_8,Average experience
+374,Area_18,Average experience
+375,Area_19,Not satisfied
+376,Area_3,Average experience
+377,Area_4,Average experience
+378,Area_4,Excellent ride
+379,Area_2,Good service
+380,Area_17,Good service
+381,Area_20,Not satisfied
+382,Area_14,Not satisfied
+383,Area_9,Average experience
+384,Area_16,Not satisfied
+385,Area_16,Excellent ride
+386,Area_15,Average experience
+387,Area_2,Excellent ride
+388,Area_19,Will use again
+389,Area_7,Excellent ride
+390,Area_10,Not satisfied
+391,Area_1,Excellent ride
+392,Area_17,Will use again
+393,Area_1,Good service
+394,Area_18,Not satisfied
+395,Area_6,Excellent ride
+396,Area_12,Will use again
+397,Area_4,Good service
+398,Area_5,Good service
+399,Area_4,Not satisfied
+400,Area_7,Not satisfied
+401,Area_1,Excellent ride
+402,Area_1,Not satisfied
+403,Area_1,Not satisfied
+404,Area_20,Good service
+405,Area_7,Excellent ride
+406,Area_1,Excellent ride
+407,Area_9,Good service
+408,Area_6,Good service
+409,Area_14,Not satisfied
+410,Area_3,Will use again
+411,Area_7,Average experience
+412,Area_7,Excellent ride
+413,Area_10,Excellent ride
+414,Area_15,Average experience
+415,Area_20,Excellent ride
+416,Area_2,Average experience
+417,Area_12,Good service
+418,Area_16,Excellent ride
+419,Area_14,Not satisfied
+420,Area_20,Not satisfied
+421,Area_12,Will use again
+422,Area_4,Not satisfied
+423,Area_16,Good service
+424,Area_7,Will use again
+425,Area_10,Excellent ride
+426,Area_14,Not satisfied
+427,Area_20,Excellent ride
+428,Area_2,Good service
+429,Area_13,Excellent ride
+430,Area_18,Excellent ride
+431,Area_16,Excellent ride
+432,Area_16,Not satisfied
+433,Area_12,Not satisfied
+434,Area_20,Will use again
+435,Area_1,Not satisfied
+436,Area_4,Will use again
+437,Area_1,Not satisfied
+438,Area_4,Good service
+439,Area_12,Good service
+440,Area_10,Not satisfied
+441,Area_15,Will use again
+442,Area_9,Will use again
+443,Area_12,Will use again
+444,Area_1,Excellent ride
+445,Area_20,Average experience
+446,Area_13,Not satisfied
+447,Area_13,Will use again
+448,Area_10,Not satisfied
+449,Area_15,Not satisfied
+450,Area_1,Will use again
+451,Area_12,Average experience
+452,Area_3,Not satisfied
+453,Area_10,Average experience
+454,Area_15,Average experience
+455,Area_2,Average experience
+456,Area_5,Average experience
+457,Area_7,Will use again
+458,Area_7,Good service
+459,Area_14,Average experience
+460,Area_5,Will use again
+461,Area_2,Good service
+462,Area_3,Average experience
+463,Area_15,Not satisfied
+464,Area_20,Excellent ride
+465,Area_9,Good service
+466,Area_13,Excellent ride
+467,Area_2,Good service
+468,Area_19,Average experience
+469,Area_16,Will use again
+470,Area_10,Excellent ride
+471,Area_15,Good service
+472,Area_7,Excellent ride
+473,Area_15,Good service
+474,Area_17,Average experience
+475,Area_4,Not satisfied
+476,Area_16,Not satisfied
+477,Area_11,Good service
+478,Area_9,Excellent ride
+479,Area_3,Average experience
+480,Area_1,Good service
+481,Area_9,Excellent ride
+482,Area_1,Excellent ride
+483,Area_16,Not satisfied
+484,Area_6,Average experience
+485,Area_7,Not satisfied
+486,Area_4,Average experience
+487,Area_20,Excellent ride
+488,Area_20,Average experience
+489,Area_11,Average experience
+490,Area_9,Good service
+491,Area_16,Not satisfied
+492,Area_18,Will use again
+493,Area_12,Will use again
+494,Area_12,Good service
+495,Area_2,Will use again
+496,Area_11,Will use again
+497,Area_20,Average experience
+498,Area_15,Good service
+499,Area_9,Not satisfied
+500,Area_2,Not satisfied
+501,Area_19,Excellent ride
+502,Area_17,Good service
+503,Area_13,Will use again
+504,Area_15,Not satisfied
+505,Area_17,Will use again
+506,Area_1,Average experience
+507,Area_2,Good service
+508,Area_17,Excellent ride
+509,Area_11,Will use again
+510,Area_14,Not satisfied
+511,Area_13,Good service
+512,Area_14,Not satisfied
+513,Area_17,Average experience
+514,Area_2,Excellent ride
+515,Area_6,Not satisfied
+516,Area_16,Not satisfied
+517,Area_3,Good service
+518,Area_5,Excellent ride
+519,Area_20,Not satisfied
+520,Area_17,Will use again
+521,Area_17,Excellent ride
+522,Area_6,Will use again
+523,Area_2,Not satisfied
+524,Area_1,Not satisfied
+525,Area_12,Excellent ride
+526,Area_18,Excellent ride
+527,Area_6,Will use again
+528,Area_2,Good service
+529,Area_18,Will use again
+530,Area_20,Average experience
+531,Area_13,Excellent ride
+532,Area_15,Excellent ride
+533,Area_18,Not satisfied
+534,Area_10,Average experience
+535,Area_17,Not satisfied
+536,Area_7,Excellent ride
+537,Area_1,Average experience
+538,Area_5,Good service
+539,Area_3,Good service
+540,Area_11,Will use again
+541,Area_13,Excellent ride
+542,Area_20,Good service
+543,Area_17,Excellent ride
+544,Area_12,Not satisfied
+545,Area_14,Not satisfied
+546,Area_5,Will use again
+547,Area_2,Not satisfied
+548,Area_20,Not satisfied
+549,Area_20,Excellent ride
+550,Area_12,Excellent ride
+551,Area_3,Average experience
+552,Area_12,Not satisfied
+553,Area_5,Average experience
+554,Area_8,Excellent ride
+555,Area_4,Will use again
+556,Area_3,Will use again
+557,Area_18,Not satisfied
+558,Area_17,Average experience
+559,Area_9,Average experience
+560,Area_17,Average experience
+561,Area_10,Will use again
+562,Area_2,Average experience
+563,Area_8,Will use again
+564,Area_9,Will use again
+565,Area_15,Will use again
+566,Area_5,Not satisfied
+567,Area_15,Excellent ride
+568,Area_11,Not satisfied
+569,Area_17,Will use again
+570,Area_14,Good service
+571,Area_3,Will use again
+572,Area_17,Not satisfied
+573,Area_18,Will use again
+574,Area_16,Not satisfied
+575,Area_6,Average experience
+576,Area_16,Will use again
+577,Area_3,Will use again
+578,Area_20,Good service
+579,Area_5,Good service
+580,Area_16,Average experience
+581,Area_20,Excellent ride
+582,Area_2,Not satisfied
+583,Area_6,Will use again
+584,Area_13,Will use again
+585,Area_3,Excellent ride
+586,Area_14,Good service
+587,Area_5,Good service
+588,Area_18,Not satisfied
+589,Area_2,Good service
+590,Area_16,Will use again
+591,Area_16,Not satisfied
+592,Area_6,Average experience
+593,Area_12,Not satisfied
+594,Area_3,Will use again
+595,Area_13,Will use again
+596,Area_18,Not satisfied
+597,Area_16,Not satisfied
+598,Area_12,Excellent ride
+599,Area_18,Good service
+600,Area_12,Will use again
+601,Area_11,Average experience
+602,Area_10,Will use again
+603,Area_12,Good service
+604,Area_1,Average experience
+605,Area_10,Not satisfied
+606,Area_6,Will use again
+607,Area_16,Excellent ride
+608,Area_4,Not satisfied
+609,Area_15,Excellent ride
+610,Area_2,Not satisfied
+611,Area_19,Will use again
+612,Area_18,Good service
+613,Area_8,Excellent ride
+614,Area_4,Average experience
+615,Area_9,Excellent ride
+616,Area_10,Excellent ride
+617,Area_1,Excellent ride
+618,Area_8,Good service
+619,Area_12,Good service
+620,Area_6,Will use again
+621,Area_6,Good service
+622,Area_19,Will use again
+623,Area_7,Will use again
+624,Area_19,Average experience
+625,Area_2,Good service
+626,Area_13,Excellent ride
+627,Area_4,Not satisfied
+628,Area_3,Will use again
+629,Area_11,Excellent ride
+630,Area_20,Excellent ride
+631,Area_10,Not satisfied
+632,Area_10,Excellent ride
+633,Area_11,Excellent ride
+634,Area_5,Average experience
+635,Area_15,Average experience
+636,Area_7,Good service
+637,Area_12,Good service
+638,Area_2,Good service
+639,Area_1,Not satisfied
+640,Area_10,Average experience
+641,Area_4,Not satisfied
+642,Area_17,Not satisfied
+643,Area_7,Average experience
+644,Area_15,Excellent ride
+645,Area_2,Will use again
+646,Area_15,Good service
+647,Area_7,Not satisfied
+648,Area_8,Will use again
+649,Area_20,Will use again
+650,Area_14,Will use again
+651,Area_13,Good service
+652,Area_1,Good service
+653,Area_20,Average experience
+654,Area_19,Will use again
+655,Area_7,Not satisfied
+656,Area_1,Average experience
+657,Area_8,Good service
+658,Area_15,Average experience
+659,Area_7,Good service
+660,Area_6,Not satisfied
+661,Area_12,Will use again
+662,Area_11,Average experience
+663,Area_3,Good service
+664,Area_16,Excellent ride
+665,Area_15,Not satisfied
+666,Area_13,Good service
+667,Area_5,Not satisfied
+668,Area_8,Average experience
+669,Area_10,Not satisfied
+670,Area_3,Good service
+671,Area_4,Excellent ride
+672,Area_1,Will use again
+673,Area_5,Good service
+674,Area_7,Good service
+675,Area_10,Good service
+676,Area_3,Will use again
+677,Area_1,Not satisfied
+678,Area_19,Good service
+679,Area_9,Not satisfied
+680,Area_11,Not satisfied
+681,Area_14,Excellent ride
+682,Area_1,Good service
+683,Area_6,Will use again
+684,Area_18,Good service
+685,Area_19,Will use again
+686,Area_1,Will use again
+687,Area_1,Excellent ride
+688,Area_6,Will use again
+689,Area_10,Will use again
+690,Area_18,Will use again
+691,Area_13,Average experience
+692,Area_12,Excellent ride
+693,Area_9,Not satisfied
+694,Area_19,Excellent ride
+695,Area_6,Average experience
+696,Area_1,Excellent ride
+697,Area_9,Good service
+698,Area_11,Good service
+699,Area_10,Excellent ride
+700,Area_4,Not satisfied
+701,Area_16,Average experience
+702,Area_17,Excellent ride
+703,Area_9,Good service
+704,Area_1,Average experience
+705,Area_16,Average experience
+706,Area_6,Not satisfied
+707,Area_9,Average experience
+708,Area_13,Not satisfied
+709,Area_11,Will use again
+710,Area_1,Not satisfied
+711,Area_11,Good service
+712,Area_17,Good service
+713,Area_3,Average experience
+714,Area_6,Will use again
+715,Area_4,Good service
+716,Area_18,Good service
+717,Area_20,Not satisfied
+718,Area_1,Excellent ride
+719,Area_5,Excellent ride
+720,Area_2,Not satisfied
+721,Area_8,Not satisfied
+722,Area_13,Not satisfied
+723,Area_12,Will use again
+724,Area_17,Good service
+725,Area_14,Excellent ride
+726,Area_11,Good service
+727,Area_2,Good service
+728,Area_18,Will use again
+729,Area_1,Excellent ride
+730,Area_19,Excellent ride
+731,Area_13,Excellent ride
+732,Area_12,Not satisfied
+733,Area_6,Will use again
+734,Area_16,Excellent ride
+735,Area_9,Good service
+736,Area_2,Excellent ride
+737,Area_10,Excellent ride
+738,Area_11,Not satisfied
+739,Area_4,Will use again
+740,Area_18,Good service
+741,Area_2,Average experience
+742,Area_10,Average experience
+743,Area_9,Excellent ride
+744,Area_3,Average experience
+745,Area_17,Will use again
+746,Area_5,Not satisfied
+747,Area_13,Average experience
+748,Area_12,Good service
+749,Area_12,Good service
+750,Area_11,Not satisfied
+751,Area_11,Not satisfied
+752,Area_15,Average experience
+753,Area_13,Will use again
+754,Area_7,Excellent ride
+755,Area_9,Average experience
+756,Area_3,Good service
+757,Area_14,Average experience
+758,Area_14,Good service
+759,Area_19,Will use again
+760,Area_5,Good service
+761,Area_19,Not satisfied
+762,Area_3,Will use again
+763,Area_1,Not satisfied
+764,Area_5,Not satisfied
+765,Area_6,Good service
+766,Area_20,Excellent ride
+767,Area_3,Good service
+768,Area_2,Good service
+769,Area_3,Good service
+770,Area_2,Will use again
+771,Area_1,Good service
+772,Area_20,Excellent ride
+773,Area_14,Average experience
+774,Area_3,Good service
+775,Area_7,Not satisfied
+776,Area_10,Good service
+777,Area_8,Will use again
+778,Area_16,Good service
+779,Area_18,Average experience
+780,Area_8,Excellent ride
+781,Area_7,Good service
+782,Area_12,Good service
+783,Area_4,Excellent ride
+784,Area_18,Will use again
+785,Area_5,Excellent ride
+786,Area_12,Excellent ride
+787,Area_16,Good service
+788,Area_10,Not satisfied
+789,Area_20,Not satisfied
+790,Area_4,Good service
+791,Area_10,Good service
+792,Area_15,Not satisfied
+793,Area_10,Excellent ride
+794,Area_11,Average experience
+795,Area_14,Not satisfied
+796,Area_3,Average experience
+797,Area_9,Not satisfied
+798,Area_15,Excellent ride
+799,Area_15,Good service
+800,Area_17,Good service
+801,Area_11,Average experience
+802,Area_12,Excellent ride
+803,Area_8,Average experience
+804,Area_12,Excellent ride
+805,Area_1,Excellent ride
+806,Area_3,Good service
+807,Area_17,Will use again
+808,Area_20,Excellent ride
+809,Area_2,Good service
+810,Area_7,Not satisfied
+811,Area_17,Excellent ride
+812,Area_11,Good service
+813,Area_12,Good service
+814,Area_1,Average experience
+815,Area_8,Good service
+816,Area_1,Good service
+817,Area_10,Good service
+818,Area_11,Average experience
+819,Area_14,Average experience
+820,Area_16,Average experience
+821,Area_16,Excellent ride
+822,Area_5,Excellent ride
+823,Area_20,Good service
+824,Area_12,Average experience
+825,Area_10,Will use again
+826,Area_1,Not satisfied
+827,Area_9,Average experience
+828,Area_1,Will use again
+829,Area_10,Average experience
+830,Area_16,Average experience
+831,Area_18,Excellent ride
+832,Area_8,Average experience
+833,Area_20,Average experience
+834,Area_13,Will use again
+835,Area_13,Will use again
+836,Area_4,Good service
+837,Area_18,Good service
+838,Area_3,Average experience
+839,Area_5,Good service
+840,Area_8,Not satisfied
+841,Area_11,Average experience
+842,Area_6,Good service
+843,Area_6,Good service
+844,Area_1,Will use again
+845,Area_2,Excellent ride
+846,Area_17,Excellent ride
+847,Area_7,Not satisfied
+848,Area_5,Excellent ride
+849,Area_9,Good service
+850,Area_4,Will use again
+851,Area_7,Excellent ride
+852,Area_14,Average experience
+853,Area_18,Not satisfied
+854,Area_19,Not satisfied
+855,Area_11,Average experience
+856,Area_6,Average experience
+857,Area_9,Will use again
+858,Area_13,Good service
+859,Area_10,Will use again
+860,Area_9,Will use again
+861,Area_12,Good service
+862,Area_4,Excellent ride
+863,Area_3,Not satisfied
+864,Area_6,Excellent ride
+865,Area_14,Not satisfied
+866,Area_20,Good service
+867,Area_7,Average experience
+868,Area_16,Will use again
+869,Area_9,Average experience
+870,Area_12,Will use again
+871,Area_9,Will use again
+872,Area_13,Not satisfied
+873,Area_5,Not satisfied
+874,Area_10,Not satisfied
+875,Area_4,Excellent ride
+876,Area_9,Good service
+877,Area_18,Will use again
+878,Area_9,Will use again
+879,Area_6,Not satisfied
+880,Area_1,Average experience
+881,Area_12,Good service
+882,Area_11,Average experience
+883,Area_18,Average experience
+884,Area_20,Will use again
+885,Area_6,Will use again
+886,Area_14,Will use again
+887,Area_13,Average experience
+888,Area_9,Not satisfied
+889,Area_13,Not satisfied
+890,Area_13,Average experience
+891,Area_5,Good service
+892,Area_1,Average experience
+893,Area_4,Excellent ride
+894,Area_10,Excellent ride
+895,Area_5,Excellent ride
+896,Area_12,Excellent ride
+897,Area_20,Excellent ride
+898,Area_17,Not satisfied
+899,Area_7,Not satisfied
+900,Area_20,Average experience
+901,Area_13,Good service
+902,Area_9,Excellent ride
+903,Area_10,Not satisfied
+904,Area_2,Good service
+905,Area_4,Average experience
+906,Area_20,Not satisfied
+907,Area_17,Will use again
+908,Area_15,Good service
+909,Area_17,Not satisfied
+910,Area_6,Will use again
+911,Area_3,Good service
+912,Area_20,Will use again
+913,Area_6,Will use again
+914,Area_18,Not satisfied
+915,Area_2,Not satisfied
+916,Area_19,Not satisfied
+917,Area_12,Not satisfied
+918,Area_9,Will use again
+919,Area_13,Excellent ride
+920,Area_16,Average experience
+921,Area_15,Will use again
+922,Area_13,Average experience
+923,Area_9,Will use again
+924,Area_11,Good service
+925,Area_15,Not satisfied
+926,Area_1,Will use again
+927,Area_13,Will use again
+928,Area_15,Good service
+929,Area_13,Good service
+930,Area_6,Good service
+931,Area_15,Average experience
+932,Area_5,Average experience
+933,Area_14,Excellent ride
+934,Area_3,Excellent ride
+935,Area_15,Not satisfied
+936,Area_19,Not satisfied
+937,Area_20,Good service
+938,Area_19,Not satisfied
+939,Area_8,Average experience
+940,Area_2,Excellent ride
+941,Area_2,Not satisfied
+942,Area_4,Good service
+943,Area_14,Not satisfied
+944,Area_8,Excellent ride
+945,Area_3,Average experience
+946,Area_3,Good service
+947,Area_20,Excellent ride
+948,Area_19,Good service
+949,Area_10,Average experience
+950,Area_16,Will use again
+951,Area_1,Average experience
+952,Area_17,Not satisfied
+953,Area_20,Average experience
+954,Area_9,Average experience
+955,Area_20,Average experience
+956,Area_17,Good service
+957,Area_4,Not satisfied
+958,Area_20,Good service
+959,Area_15,Good service
+960,Area_16,Not satisfied
+961,Area_17,Average experience
+962,Area_2,Good service
+963,Area_6,Not satisfied
+964,Area_4,Excellent ride
+965,Area_15,Good service
+966,Area_2,Excellent ride
+967,Area_20,Will use again
+968,Area_17,Not satisfied
+969,Area_7,Good service
+970,Area_14,Average experience
+971,Area_16,Excellent ride
+972,Area_20,Excellent ride
+973,Area_17,Not satisfied
+974,Area_11,Will use again
+975,Area_4,Average experience
+976,Area_7,Good service
+977,Area_10,Excellent ride
+978,Area_18,Excellent ride
+979,Area_4,Not satisfied
+980,Area_3,Average experience
+981,Area_5,Excellent ride
+982,Area_2,Good service
+983,Area_13,Average experience
+984,Area_15,Average experience
+985,Area_16,Good service
+986,Area_20,Good service
+987,Area_11,Excellent ride
+988,Area_8,Excellent ride
+989,Area_17,Excellent ride
+990,Area_4,Will use again
+991,Area_4,Good service
+992,Area_17,Excellent ride
+993,Area_12,Excellent ride
+994,Area_1,Will use again
+995,Area_5,Average experience
+996,Area_13,Not satisfied
+997,Area_6,Not satisfied
+998,Area_9,Not satisfied
+999,Area_4,Average experience
+1000,Area_2,Good service
